@@ -6,7 +6,7 @@
 
 arithmetic（.c .h）：四则运算实现；
 
-sqrt_pow（.c .h）：pow和sqrt功能实现；
+sqrt_pow（.c .h）：pow和sqrt功能实现,pow功能在输入表达式时格式为2^3，sqrt功能的格式为@9；
 
 calc（.c .h）:实现表达式的转换和计算功能，该过程首先将中缀表达式转换为后缀表达式，然后对后缀表达式进行计算；
 
